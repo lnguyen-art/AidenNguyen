@@ -5,8 +5,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/lnguyen-art/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/lnguyen-art/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/AidenNguyenCyber/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/AidenNguyenCyber/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
